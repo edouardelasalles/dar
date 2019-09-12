@@ -1,8 +1,9 @@
 # Dynamic Author Representation
-Official implementation of the paper [Learning Dynamic Author Representations with Temporal Language Models](https://url/pdf)
+Official implementation of the paper [Learning Dynamic Author Representations with Temporal Language Models](https://arxiv.org/abs/1909.04985)
 
 Edouard Delasalles, Sylvain Lamprier, Ludovic Denoyer
 
+IEEE International Conference on Data Mining, ICDM 2019
 
 ## Model
 
